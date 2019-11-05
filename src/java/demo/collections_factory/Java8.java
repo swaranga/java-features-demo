@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.collections_factory;
+package java.demo.collections_factory;
 
 import java.util.Arrays;
 import java.util.Collections;

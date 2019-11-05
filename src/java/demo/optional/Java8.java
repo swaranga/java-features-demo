@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.optional;
+package java.demo.optional;
 
 import java.util.Optional;
 import java.util.stream.Stream;

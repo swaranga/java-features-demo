@@ -1,10 +1,10 @@
-package com.swaranga.java.demo.try_with_resources;
+package java.demo.try_with_resources;
 
-public class Java9 {
+public class Java8 {
     public static void main(String[] args) throws Exception {
         Resource r1 = new Resource();
 
-        try (r1) {
+        try (Resource r2 = r1) {
             System.out.println();
         }
     }

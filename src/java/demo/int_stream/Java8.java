@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.int_stream;
+package java.demo.int_stream;
 
 import java.util.stream.IntStream;
 import java.util.stream.Stream;

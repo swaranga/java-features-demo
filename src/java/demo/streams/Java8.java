@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.streams;
+package java.demo.streams;
 
 import java.util.Arrays;
 import java.util.List;

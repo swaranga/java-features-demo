@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.interfaces;
+package java.demo.interfaces;
 
 public interface Java8 {
     default int getValue() {

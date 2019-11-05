@@ -1,4 +1,4 @@
-package com.swaranga.java.demo.http_client;
+package java.demo.http_client;
 
 import java.net.URI;
 import java.net.http.HttpClient;

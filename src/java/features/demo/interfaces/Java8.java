@@ -1,4 +1,4 @@
-package java.demo.interfaces;
+package java.features.demo.interfaces;
 
 public interface Java8 {
     default int getValue() {

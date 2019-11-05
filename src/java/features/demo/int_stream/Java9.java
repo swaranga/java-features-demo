@@ -1,4 +1,4 @@
-package java.demo.int_stream;
+package java.features.demo.int_stream;
 
 import java.util.stream.IntStream;
 import java.util.stream.Stream;

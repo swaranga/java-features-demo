@@ -1,4 +1,4 @@
-package java.demo.collections_factory;
+package java.features.demo.collections_factory;
 
 import java.util.Arrays;
 import java.util.Collections;

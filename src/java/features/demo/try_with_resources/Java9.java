@@ -1,4 +1,4 @@
-package java.demo.try_with_resources;
+package java.features.demo.try_with_resources;
 
 public class Java9 {
     public static void main(String[] args) throws Exception {

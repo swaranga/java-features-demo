@@ -1,4 +1,4 @@
-package java.features.demo.collections_factory;
+package org.java.features.demo.collections_factory;
 
 import static java.util.Map.entry;
 

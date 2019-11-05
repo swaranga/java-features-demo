@@ -1,4 +1,4 @@
-package java.features.demo.interfaces;
+package org.java.features.demo.interfaces;
 
 public interface Java9 {
     default int getValue() {

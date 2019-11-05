@@ -1,4 +1,4 @@
-package java.features.demo.underscore;
+package org.java.features.demo.underscore;
 
 public class Java9 {
     public static void main(String[] args) {

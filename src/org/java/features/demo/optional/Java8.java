@@ -1,4 +1,4 @@
-package java.features.demo.optional;
+package org.java.features.demo.optional;
 
 import java.util.Optional;
 import java.util.stream.Stream;

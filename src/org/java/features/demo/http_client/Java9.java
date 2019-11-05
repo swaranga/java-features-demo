@@ -1,4 +1,4 @@
-package java.features.demo.http_client;
+package org.java.features.demo.http_client;
 
 import java.net.URI;
 import java.net.http.HttpClient;

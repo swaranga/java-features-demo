@@ -1,20 +1,20 @@
-package java.features.demo.streams;
+package org.java.features.demo.streams;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Java8 {
+public class Java9 {
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(11, 32, 12, 54, 67, 81, 16, 15);
         
         list.stream()
-            .limit(5)
+            .takeWhile(i -> i < 55) // equivalent of break
             .forEach(System.out::println);
         
         System.out.println();
         
         list.stream()
-            .skip(4)
+            .dropWhile(i -> i < 55) // equivalent of continue
             .forEach(System.out::println);
     }
 }

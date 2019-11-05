@@ -1,3 +1,3 @@
-module com.amazon.java.demo {
+module com.swaranga.java.demo {
     requires java.net.http;
 }

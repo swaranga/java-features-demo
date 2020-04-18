@@ -10,9 +10,14 @@ import java.net.http.HttpResponse.BodyHandlers;
 import java.time.Duration;
 
 public class Java9 {
+    /**
+     * Simple and concise API
+     * Supports HTTP2 semantics
+     * 
+     */
     public static void main(String[] args) throws Exception {
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create("https://amazon.com/"))
+                .uri(URI.create("https://google.com/"))
                 .timeout(Duration.ofMinutes(2))
                 .header("Content-Type", "text/html;charset=UTF-8")
                 .GET()
